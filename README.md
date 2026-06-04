@@ -84,3 +84,17 @@ At a high level, the system includes:
 |  +---------------+  +---------------+  +---------------+ |
 |                                                          |
 +----------------------------------------------------------+
+```
+## Future Improvements
+
+Future development could include:
+
+- Improved throw and motion classification
+- More advanced proximity sensing
+- Multiple beacon support for different field locations
+- Wearable devices for players
+- More refined haptic feedback patterns
+- Improved battery life and power efficiency
+- More compact internal packaging
+- Expanded mobile app features
+- Additional user testing with athletes with low vision
